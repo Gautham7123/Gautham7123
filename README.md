@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <h1 align="center">Hi 👋, I'm Gautham</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
